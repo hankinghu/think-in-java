@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [写在前面的话](xie-zai-qian-mian-de-hua.md)
 * [引言](yin-yan.md)
 * [第1章 对象入门](di-1-zhang-dui-xiang-ru-men/README.md)
   * [1.1 抽象的进步](di-1-zhang-dui-xiang-ru-men/1.1-chou-xiang-de-jin-bu.md)
